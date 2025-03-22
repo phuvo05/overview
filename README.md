@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm **Le Nguyen Gia Hung** (a.k.a **hei**)
+# Hi there! 👋 I'm **Thien-Phu Vo** 
 
 🚀 **AI & Data Science Enthusiast**  
 🎓 **Second-year Student | Passionate about Artificial Intelligence world!**  
@@ -42,7 +42,7 @@ A few of the tools and technologies I work with:
 ### 💪 Top Contributed Repo  
 ![Top Contributions](https://github-contributor-stats.vercel.app/api?username=phuvo05&limit=5&theme=dark&combine_all_yearly_contributions=true)  
 
-[![](https://visitcount.itsvg.in/api?id=hei1sme&icon=0&color=13)](https://visitcount.itsvg.in)  
+[![](https://visitcount.itsvg.in/api?id=phuvo05&icon=0&color=13)](https://visitcount.itsvg.in)  
 
 
 
@@ -53,7 +53,7 @@ A few of the tools and technologies I work with:
 <!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@hei_isme)   -->
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hei.isme)   --> -->
 
-📩 **Feel free to connect, collaborate, or just say hi! Always open to new opportunities and discussions.**  # Hi there! 👋 I'm **Le Nguyen Gia Hung** (a.k.a **hei**)
+📩 **Feel free to connect, collaborate, or just say hi! Always open to new opportunities and discussions.**  # Hi there! 👋 I'm **Thien-Phu Vo** 
 
 🚀 **AI & Data Science Enthusiast**  
 🎓 **Second-year Student | Passionate about Artificial Intelligence world!**  
@@ -91,19 +91,19 @@ A few of the tools and technologies I work with:
 
 
 ## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hei1sme&theme=dark&hide_border=false) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hei1sme&theme=dark&hide_border=false&include_all_commits=true&count_private=true)    
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hei1sme&theme=dark&hide_border=false&layout=compact)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phuvo05&theme=dark&hide_border=false) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phuvo05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)    
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phuvo05&theme=dark&hide_border=false&layout=compact)  
 
 ### 💪 Top Contributed Repo  
-![Top Contributions](https://github-contributor-stats.vercel.app/api?username=hei1sme&limit=5&theme=dark&combine_all_yearly_contributions=true)  
+![Top Contributions](https://github-contributor-stats.vercel.app/api?username=phuvo05&limit=5&theme=dark&combine_all_yearly_contributions=true)  
 
-[![](https://visitcount.itsvg.in/api?id=hei1sme&icon=0&color=13)](https://visitcount.itsvg.in)  
+[![](https://visitcount.itsvg.in/api?id=phuvo05&icon=0&color=13)](https://visitcount.itsvg.in)  
 
 
 
 ## 🔹 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/le-nguyen-gia-hung)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phu-vo-3a36621ab/)  
 <!-- [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25495769)  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@hei_isme)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hei.isme)   -->
